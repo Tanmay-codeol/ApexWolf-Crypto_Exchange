@@ -12,7 +12,7 @@ Visit Website: [ ApexWolf ](https://apexwolf-f8480.web.app/)
 
 ### Video Overview
 
-For a more detailed look at our website, check out our [Video Overview](https://drive.google.com/file/d/1so6ahsZU7A77hkn3BDyLmbqjfU92YLCO/view?usp=sharing). Please note that due to size limitations, I've provided the video through Google Drive.
+For a more detailed look at our website, check out our [Video Overview](https://drive.google.com/file/d/1rLwjNgmd_O-mreULDm9wP9C4UBRdHXJ2/view?usp=sharing). Please note that due to size limitations, I've provided the video through Google Drive.
 
 ## Features
 
